@@ -1,2 +1,2 @@
 # LowBirthWeight
-statistical Analysis between Low birth weight and socioeconomic parameters
+Statistical Analysis between Low birth weight and socioeconomic parameters
